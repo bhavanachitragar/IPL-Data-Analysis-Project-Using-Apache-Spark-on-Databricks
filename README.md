@@ -32,7 +32,7 @@ This project focuses on performing an end-to-end analysis of IPL data using Apac
 - Other high-scoring venues include Sheikh Zayed Stadium and Subrata Roy Sahara Stadium.
 
 ##### Most Frequent Dismissal Types:
-- Caught" is the most common conventional dismissal, followed by "Bowled" and "Run Out."
+- "Caught" is the most common conventional dismissal, followed by "Bowled" and "Run Out."
 - Dismissal types like "Obstructing the field" and "Retired hurt" are the least frequent.
 
 ##### Team Performance After Winning Toss:
