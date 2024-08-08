@@ -1,6 +1,7 @@
 # Superstore Sales Analysis using Excel
 -------------------------------------------------------------
 
+![Untitled Diagram drawio (5)](https://github.com/user-attachments/assets/6cf2b8ae-b376-448d-8eed-a16f0527b6b4)
 
 This project focuses on performing an end-to-end analysis of IPL data using Apache Spark on Databricks. It begins with setting up a Databricks environment, followed by ingesting and exploring the IPL dataset. The project also involves optimizing Spark queries to handle large datasets efficiently, leveraging Databricks’ capabilities for distributed computing. Finally, the results are visualized using Databricks notebooks and integrated tools, creating interactive dashboards or reports. These visualizations are intended to provide stakeholders with actionable insights, 
 
@@ -44,7 +45,12 @@ This project focuses on performing an end-to-end analysis of IPL data using Apac
 
 
 #### Sanpshots:
+![Screenshot 2024-08-08 180103](https://github.com/user-attachments/assets/969fedf8-9be2-43d3-8cf4-e81a66aad1d6)
+
+![Screenshot 2024-08-08 180123](https://github.com/user-attachments/assets/c5e36b5f-14fb-4770-a0d9-fd097fe6085b)
+
  
+![Screenshot 2024-08-08 180739](https://github.com/user-attachments/assets/94cbf08a-0331-409d-b74e-85c807e4f086)
 
 
 ----------------------------------------------------------------
