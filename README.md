@@ -36,7 +36,7 @@ This project focuses on performing an end-to-end analysis of IPL data using Apac
 - Dismissal types like "Obstructing the field" and "Retired hurt" are the least frequent.
 
 ##### Team Performance After Winning Toss:
-##### Top Performers s:
+##### Top Performers:
 - Chennai Super Kings and Mumbai Indians have the highest number of wins after winning the toss, indicating a strong correlation between winning the toss and match performance for these teams.
 - Kolkata Knight Riders and Royal Challengers Bangalore also have a significant number of wins after winning the toss.
 ##### Lower Performers:
